@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10319571&assignment_repo_type=AssignmentRepo)
-# Título do Projeto
+# Sistema de integração de imigrantes
 
 `CURSO: Sistemas de Informação`
 
@@ -7,19 +7,18 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto visa uma criar uma plataforma para integrar imigrantes que cheguem ao Brasil, auxiliando-os na adaptação com os sistemas brasileiros de serviços locais, como: legalização de documentos, aluguel de imóveis, pontos turísticos, plataformas de trabalho entre outros. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Quéren Hapuque Soares Mendes
+* Gabriel Luiz Oliveira de Moraes
+* Arthur Ramires 
+* Gustavo Henrique Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+*  Fábio Cordeiro
 
 # Planejamento
 
