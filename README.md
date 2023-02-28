@@ -7,7 +7,7 @@
 
 `SEMESTRE: 1º`
 
-O projeto visa uma criar uma plataforma para integrar imigrantes que cheguem ao Brasil, auxiliando-os na adaptação com os sistemas brasileiros de serviços locais, como: legalização de documentos, aluguel de imóveis, pontos turísticos, plataformas de trabalho entre outros. 
+O projeto visa criar uma plataforma para integrar imigrantes que cheguem ao Brasil, auxiliando-os na adaptação com os sistemas brasileiros de serviços locais, como: legalização de documentos, aluguel de imóveis, pontos turísticos, plataformas de trabalho entre outros. 
 
 ## Integrantes
 
