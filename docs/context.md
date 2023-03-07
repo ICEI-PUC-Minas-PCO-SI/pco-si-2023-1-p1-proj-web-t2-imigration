@@ -3,9 +3,9 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Atualmente os imigrantes que chegam ao Brasil, têm um grande problema ao se adaptar a linguagem nativa. Sem o domínio do idioma há uma dificuldade para eles conseguirem emprego, moradia e até mesmo entretenimento, e até mesmo coisas mais simples como a legalização de documentos.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A aplicação será usada por imigrantes que cheguem ao Brasil, podendo ser expandida para empresas que trabalhem com imigrações. 
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
@@ -16,9 +16,10 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo desse trabalho é facilitar a recepção e adaptação de várias formas dos imigrantes que chegam ao Brasil, seja com a linguagem, documentação, seus direitos e até mesmo entretenimento.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Identificar as maiores porcentagens de nacionalidades imigrantes ao Brasil.
+Estudar qual os maiores as dificuldades que ocorrem com os imigrantes que chegam ao no país.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
