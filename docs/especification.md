@@ -1,5 +1,5 @@
 # Especificações do Projeto
-O projeto trara uma pagina onde o usuario tera as ferramentas a seu idioma diponibilizando 
+O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turistas, refugiados e intercambistas, que trará as ferramentas de seu idioma Facilitando o seu convívio no país em que esteja. O aplicativo contará com serviços de suporte a transporte, alimentação, 
 
 
 
