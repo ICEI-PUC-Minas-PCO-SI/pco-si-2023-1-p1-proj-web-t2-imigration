@@ -15,6 +15,8 @@ O projeto visa criar uma plataforma para integrar imigrantes que cheguem ao Bras
 * Gabriel Luiz Oliveira de Moraes
 * Arthur Ramires 
 * Gustavo Henrique Santos
+* Davi Costa da Silva
+* Lucas Eduardo Rodrigues de Oliveira
 
 ## Orientador
 
