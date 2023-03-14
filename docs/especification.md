@@ -1,4 +1,7 @@
 # Especificações do Projeto
+O projeto trara uma pagina onde o usuario tera as ferramentas a seu idioma diponibilizando 
+
+
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
