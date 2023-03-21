@@ -25,12 +25,8 @@ Estudar qual os maiores as dificuldades que ocorrem com os imigrantes que chegam
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Ao encontrar com alguns imigrantes ao longo de algumas corridas como uber, se viu a grande necessidade de criar uma aplicação que irá auxiliar de forma geral a chegada dos mesmos ao Brasil. Facilitando de forma geral essa etapa inicial, mostrando o melhor caminho a se trilhar para ter todos os documentos legalizados, encontrar o melhor trabalho na área de atuação em que tem  melhor aptidão e até mesmo acesso a oportunidades de moradia. Esse software irá auxiliar em tudo citado a cima, trazendo uma melhor comodidade nos primeiros meses dos novos imigrantes no Brasil. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
