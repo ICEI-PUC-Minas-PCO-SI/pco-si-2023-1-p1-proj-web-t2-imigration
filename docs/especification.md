@@ -49,8 +49,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| Questões de regularizaçâo do imigrante no pais | ALTA |  |
+|RF-002| Questões de acomodaçâo/hospedagem   | MÉDIA | |
+|RF-003| informações culturais  | BAIXA | |
 
 
 ### Requisitos não Funcionais
