@@ -9,19 +9,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+01 - Raul Gonzalez de 28 anos, venezuelano, está vindo morar no Brasil a procura de melhores condições de vida. Está a procura de trabalho porém está com dificuldades de legalizar sua documentação. Está a procura de orientação para colocar sua documentacao em dia para que possa exercer uma profissão de forma regular.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+02 - Mary Ann, canadense de 19 anos. Estudante de Ciencias Biologicas, está chegando ao Brasil para estudar os climas e a fauna brasileira. Está a procura de uma hospedagem perto dos campos de pesquisa e em busca de uma adaptação mais prática. Afim de se aventurar no país e fazer amigos.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+03 - Muhammad Habib, 32 anos, sirio. Recém chegado ao Brasil em busca de refúgio. A procura de moradia e condições básicas para sobrevivência. Ao fugir da guerra, está a procura de estabilidade e uma condição de vida digna. Em busca de moradia e disposto a prestar serviços bracais como autonomo.
 
 ## Histórias de Usuários
 
