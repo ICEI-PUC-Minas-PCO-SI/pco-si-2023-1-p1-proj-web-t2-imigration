@@ -1,7 +1,7 @@
 # Especificações do Projeto
 O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turistas, refugiados e intercambistas, que trará as ferramentas de seu idioma Facilitando o seu convívio no país em que esteja. O aplicativo contará com serviços de suporte a transporte e alimentação.
 
-trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos orgãos de cadastramento,apresentando tambem informações culturais pro usuario.
+Trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos órgaos de cadastramento, apresentando também informações culturais pro usuário.
 
 
 
@@ -58,4 +58,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| O treinamento das ferramentas devem durar no máximo 3 meses |
