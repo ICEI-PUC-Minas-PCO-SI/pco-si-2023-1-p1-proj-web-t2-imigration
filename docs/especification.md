@@ -1,11 +1,10 @@
 # Especificações do Projeto
-O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turistas, refugiados e intercambistas, que trará as ferramentas de seu idioma Facilitando o seu convívio no país em que esteja. O aplicativo contará com serviços de suporte a transporte, alimentação, 
+O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turistas, refugiados e intercambistas, que trará as ferramentas de seu idioma Facilitando o seu convívio no país em que esteja. O aplicativo contará com serviços de suporte a transporte e alimentação.
+
+trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos ogaosde cadastramento,apresentando tambem imformaçoes culturais pro usuario.
 
 
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
