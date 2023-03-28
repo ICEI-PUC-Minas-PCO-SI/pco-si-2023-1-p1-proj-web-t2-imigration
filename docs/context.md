@@ -1,11 +1,12 @@
 # Introdução
 
-No mundo atual é notavel o aumento do fluxo imigratorio mundial pôr diversos motivos, no Brasil o número de imigração têm subido bastante de um tempo pra cá trazendo consigo problemáticas que nessecitam de uma atenção especial.Os imigrates deparam com grades barreiras em sua chegada tanto culturais quanto logisticas com isso foi discutido jeitos de ajudá-los com a dádiva da tecnologia.Mas como? IMIGRATION.Uma aplicação para imigrantes se situarem em tudo,onde cadastrar ou onde morar, linhas de Ônibus entre outros serviços que serão encontrados em alguns toques que o daram conforto para viver em nosso país com sistemas interativos e personalizados em sua língua de origem.
+No mundo atual é notavel o aumento do fluxo imigratorio mundial pôr diversos motivos, no Brasil o número de imigração têm subido bastante de um tempo pra cá trazendo consigo problemáticas que necessitam de uma atenção especial. Os imigrantes deparam com grades barreiras em sua chegada tanto culturais quanto logisticas com isso foi discutido jeitos de ajudá-los com a dádiva da tecnologia. Mas como? IMIGRATION. Uma aplicação para imigrantes se situarem em tudo, onde cadastrar ou onde morar, linhas de ônibus entre outros serviços que serão encontrados em alguns toques que o darão conforto para viver em nosso país com sistemas interativos e personalizados em sua língua de origem.
+A aplicação será desenvolvida utilizando:
+Front-end: HTML, CSS, Bootstrap.
+Back-end: Javascript, JSON CRUDServer.
 ## Problema
-Atualmente os imigrantes que chegam ao Brasil, têm um grande problema ao se adaptar a linguagem nativa. Sem o domínio do idioma há uma dificuldade para eles conseguirem emprego, moradia e até mesmo entretenimento, e até mesmo coisas mais simples como a legalização de documentos.
-
+Atualmente os imigrantes que chegam ao Brasil, têm um grande problema ao se adaptar a linguagem nativa. Sem o domínio do idioma há uma dificuldade para eles conseguirem emprego, moradia e até mesmo entretenimento, e até mesmo coisas básicas essenciais como a legalização de documentos.
 A aplicação será usada por imigrantes que cheguem ao Brasil, podendo ser expandida para empresas que trabalhem com imigrações. 
-
 
 ## Objetivos
 
