@@ -1,7 +1,7 @@
 # Especificações do Projeto
 O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turistas, refugiados e intercambistas, que trará as ferramentas de seu idioma Facilitando o seu convívio no país em que esteja. O aplicativo contará com serviços de suporte a transporte e alimentação.
 
-trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos ogaosde cadastramento,apresentando tambem imformaçoes culturais pro usuario.
+trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos orgãos de cadastramento,apresentando tambem informações culturais pro usuario.
 
 
 
