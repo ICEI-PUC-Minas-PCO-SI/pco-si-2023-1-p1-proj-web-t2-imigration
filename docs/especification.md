@@ -3,7 +3,11 @@ O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turi
 
 Trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos órgaos de cadastramento, apresentando também informações culturais pro usuário.
 
+A aplicação será desenvolvida utilizando:
 
+Frontend: HTML, CSS, Bootstrap.
+
+Backend: Javascript, JSON CRUDServer.
 
 
 ## Personas
