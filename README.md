@@ -20,7 +20,7 @@ O projeto visa criar uma plataforma para integrar imigrantes que cheguem ao Bras
 
 ## Orientador
 
-*  Fábio Cordeiro
+*  Fábio Leandro Rodrigues Cordeiro 
 
 # Planejamento
 
