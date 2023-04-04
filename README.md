@@ -6,6 +6,7 @@
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
+# sair do computador antes de sair da aula pois fica aberto para o proximo que sentar no lugar 
 
 O projeto visa criar uma plataforma para integrar imigrantes que cheguem ao Brasil, auxiliando-os na adaptação com os sistemas brasileiros de serviços locais, como: legalização de documentos, aluguel de imóveis, pontos turísticos, plataformas de trabalho entre outros. 
 
