@@ -1,7 +1,7 @@
 # Especificações do Projeto
-O projeto trará uma apicação voltada para usuarios que sejam imigrantes, turistas, refugiados e intercambistas, que trará as ferramentas de seu idioma Facilitando o seu convívio no país em que esteja. O aplicativo contará com serviços de suporte a transporte e alimentação.
+O projeto trará uma aplicação voltada para usuários que sejam imigrantes, turistas, refugiados ou intercambistas, que trará as ferramentas de seu idioma, facilitando o seu convívio no país em que estejam. O aplicativo contará com serviços de suporte a transporte e alimentação.
 
-Trazendo consigo funcionalidades que promovem açoes de localidade pra hospedaria ou restaurantes e o mais importante os devidos órgaos de cadastramento, apresentando também informações culturais pro usuário.
+Trazendo consigo funcionalidades que indique a localidade de hospedagens, restaurantes, informações culturais e os devidos órgãos para legalização des documentos e para o usuário.
 
 A aplicação será desenvolvida utilizando:
 
@@ -12,42 +12,42 @@ Backend: Javascript, JSON CRUDServer.
 
 ## Personas
 
-01 - Raul Gonzalez de 28 anos, venezuelano, está vindo morar no Brasil a procura de melhores condições de vida. Está a procura de trabalho porém está com dificuldades de legalizar sua documentação. Está a procura de orientação para colocar sua documentacao em dia para que possa exercer uma profissão de forma regular.
+01 - Raul Gonzalez, de 28 anos, venezuelano, está vindo morar no Brasil em busca de melhores condições de vida. Está à procura de trabalho, porém está com dificuldades de legalizar sua documentação. Está à procura de orientação para colocar sua documentação em dia, para que possa exercer uma profissão de forma regular.
 
-02 - Mary Ann, canadense de 19 anos. Estudante de Ciencias Biologicas, está chegando ao Brasil para estudar os climas e a fauna brasileira. Está a procura de uma hospedagem perto dos campos de pesquisa e em busca de uma adaptação mais prática. Afim de se aventurar no país e fazer amigos.
+02 - Mary Ann, canadense de 19 anos, estudante de Ciências Biológicas, está chegando ao Brasil para estudar os climas e a fauna brasileira. Está à procura de uma hospedagem perto dos campos de pesquisa e em busca de uma adaptação mais prática. A fim de se aventurar no país e fazer amigos.
 
-03 - Muhammad Habib, 32 anos, sirio. Recém chegado ao Brasil em busca de refúgio. A procura de moradia e condições básicas para sobrevivência. Ao fugir da guerra, está a procura de estabilidade e uma condição de vida digna. Em busca de moradia e disposto a prestar serviços bracais como autonomo.
+03 - Muhammad Habib, 32 anos, sírio, recém-chegado ao Brasil em busca de refúgio. À procura de moradia e condições básicas para sobrevivência. Ao fugir da guerra, está à procura de estabilidade e uma condição de vida digna. Em busca de moradia e disposto a prestar serviços braçais como autônomo.
 
 04 - Antonio Javier, espanhol de 28 anos, vem ao Brasil a turismo. Publicitário em busca de atrações turísticas e contato com a natureza. Afim de conhecer a cultura e a gastronomia local.
 
-05 - Maria Antonella, aposentada de 68 anos, é uma italiana que adora praias de climas tropicais e está sempre a procura de uma bela vista. Visita o páis periodicamente. Sempre que está no país procura locais com facilidades de acesso as áreas litorâneas e com ótimos pontos gastronômicos.
+05 - Maria Antonella, aposentada de 68 anos, é uma italiana que adora praias de climas tropicais e está sempre à procura de uma bela vista. Visita o país periodicamente. Sempre que está no país, procura locais com facilidades de acesso às áreas litorâneas e com ótimos pontos gastronômicos.
 
-06 - Heng Liang, chiês de 38 anos, vindo ao Brasil atrás de estabilidade financeira, trabalha com artefatos importados. Atrás de residências de baixo custo e perto da região central da cidade, para que tenha facilidade de transporte. Dificuldade de interpretação da língua portuguesa.
+06 - Heng Liang, chinês de 38 anos, vindo ao Brasil atrás de estabilidade financeira, trabalha com artefatos importados. À procura de residências de baixo custo e perto da região central da cidade, para que tenha facilidade de transporte. Dificuldade de interpretação da língua portuguesa.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
+imigrantes, turistas, refugiados ou intercambistas,
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Raul Gonzalez  | Consultar vagas de emprego          | Conseguir me estabilizar  |
-|Raul Gonzalez       | Procurar moradia                 | Possuir uma residência fixa |
-|Raul Gonzalez       | Ver os processos de legalização de documentos | Conseguir residir legalmente no Brasil |
-|Mary Ann       | Informações práticas sobre alugueis e residências | Residir perto de seus campos de pesquisa |
-|Mary Ann       | Conhecer ambientes de pesquisa de fauna e flora | Conseguir concluir seu projeto |
-|Mary Ann       | Descobrir áreas boêmias | Conhecer pessoas |
-|Muhammad Habib       | Auxílio sobre documentos | Me legalizar no país  |
-|Muhammad Habib       | Buscar residências disponiveis | Possuir residência fixa |
-|Muhammad Habib       | Consultar vagas de emprego | Conseguir me estabilizar  |
-|Antonio Javier       | Procurar hospedagens | Me hospedar no país |
-|Antonio Javier       | Pesquisar pontos turísticos e culturais | Conhecer melhor a cultura do país |
-|Antonio Javier       | Procurar sobre restaurantes | Ter contato com a gastronomia local |
-|Maria Antonella      | Consultar locais de hospedagens com acessibilidade a praia | Me hospedar de forma prática e acessivel |
-|Maria Antonella      | Saber a respeito de restaurantes renomados | Saborear a gastronomia brasileira |
-|Maria Antonella      | Informações sobre praias próximas ao local da hospedagem | Usufruir de praias com praticidade |
-|Heng Liang      | Buscar residências de baixo custo e próximas da região central | Residir com facilidade de mobilidade |
-|Heng Liang      | Auxílio sobre a lingua portuguesa | Melhorar sua comunicação com o povo local |
-|Heng Liang      | Achar locais que possa vender seus produtos | Me sustentar |
+|usuário-imigrante   | Consultar vagas de emprego          | Conseguir me estabilizar  |
+|usuário-imigrante   | Procurar moradia                 | Possuir uma residência fixa |
+|usuário-imigrante   | Ver os processos de legalização de documentos | Conseguir residir legalmente no Brasil |
+|usuário-intercambista   | Informações práticas sobre alugueis e residências | Residir perto de seus campos de pesquisa |
+|usuário-intercambista   | Conhecer ambientes de pesquisa de fauna e flora | Conseguir concluir seu projeto |
+|usuário-turista   | Descobrir áreas boêmias | Conhecer pessoas |
+|usuário-refugiado   | Auxílio sobre documentos | Me legalizar no país  |
+|usuário-refugiado   | Buscar residências disponiveis | Possuir residência fixa |
+|usuário-refugiado   | Consultar vagas de emprego | Conseguir me estabilizar  |
+|usuário-imigrante   | Procurar hospedagens | Me hospedar no país |
+|usuário-turista   | Pesquisar pontos turísticos e culturais | Conhecer melhor a cultura do país |
+|usuário-turista   | Procurar sobre restaurantes | Ter contato com a gastronomia local |
+|usuário-turista   | Consultar locais de hospedagens com acessibilidade a praia | Me hospedar de forma prática e acessivel |
+|usuário-turista   | Saber a respeito de restaurantes renomados | Saborear a gastronomia brasileira |
+|usuário-imigrante   | Informações sobre praias próximas ao local da hospedagem | Usufruir de praias com praticidade |
+|usuário-intercambista   | Buscar residências de baixo custo e próximas da região central | Residir com facilidade de mobilidade |
+|usuário-intercambista   | Auxílio sobre a lingua portuguesa | Melhorar sua comunicação com o povo local |
+|usuário-imigrante   | Achar locais que possa vender seus produtos | Me sustentar |
 
 ## Requisitos
 
@@ -55,8 +55,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Buscar informações sobre legalizaçãoo de documentos | ALTA | Davi Costa |
-|RF-002| Registrar informações sobre moradias e hospedagens | MÉDIA | |
+|RF-001| Buscar informações sobre legalização de documentos | ALTA | Davi Costa |
+|RF-002| Buscar informações sobre moradias e hospedagens | MÉDIA | | Davi Costa
 |RF-003| Cadastrar vagas de emprego  | MÉDIA | |
 |RF-004| Informar a respeito de pontos turísticos | BAIXA | Gabriel Luiz |
 |RF-005| Disponibilizar informações sobre comércios locais | MÉDIA | |
