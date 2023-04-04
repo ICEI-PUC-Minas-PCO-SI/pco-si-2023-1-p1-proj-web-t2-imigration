@@ -30,18 +30,24 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Raul Gonzalez  | Consultar vagas de emprego          | Conseguir me estabilizar               |
-|Raul Gonzalez       | Procurar moradia                 | Ter uma residência fixa |
+|Raul Gonzalez  | Consultar vagas de emprego          | Conseguir me estabilizar  |
+|Raul Gonzalez       | Procurar moradia                 | Possuir uma residência fixa |
 |Raul Gonzalez       | Ver os processos de legalização de documentos | Conseguir residir legalmente no Brasil |
-
-Como Raul Gonzalez, quero encontrar lugares e serviços que me ajudem a legalizar os meus documentos ao chegar ao Brasil para realizar minhas tarefas do dia a dia legalmente.
-
-Como Raul Gonzalez, preciso encontrar emprego e moradia para que eu consiga me estabilizar no país e poder trazer minha familia
-
-Como Mary Ann, desejo ter facil acesso a aluguel de residência para poder conhecer diversos lugares e aperfeiçoar o meu português 
-
-Como Mary Ann, preciso encontrar pontos turísticos para agregar em minha experiência cultural 
-
+|Mary Ann       | Informações práticas sobre alugueis e residências | Residir perto de seus campos de pesquisa |
+|Mary Ann       | Conhecer ambientes de pesquisa de fauna e flora | Conseguir concluir seu projeto |
+|Mary Ann       | Descobrir áreas boêmias | Conhecer pessoas |
+|Muhammad Habib       | Auxílio sobre documentos | Me legalizar no país  |
+|Muhammad Habib       | Buscar residências disponiveis | Possuir residência fixa |
+|Muhammad Habib       | Consultar vagas de emprego | Conseguir me estabilizar  |
+|Antonio Javier       | Procurar hospedagens | Me hospedar no país |
+|Antonio Javier       | Pesquisar pontos turísticos e culturais | Conhecer melhor a cultura do país |
+|Antonio Javier       | Procurar sobre restaurantes | Ter contato com a gastronomia local |
+|Maria Antonella      | Consultar locais de hospedagens com acessibilidade a praia | Me hospedar de forma prática e acessivel |
+|Maria Antonella      | Saber a respeito de restaurantes renomados | Saborear a gastronomia brasileira |
+|Maria Antonella      | Informações sobre praias próximas ao local da hospedagem | Usufruir de praias com praticidade |
+|Heng Liang      | Buscar residências de baixo custo e próximas da região central | Residir com facilidade de mobilidade |
+|Heng Liang      | Auxílio sobre a lingua portuguesa | Melhorar sua comunicação com o povo local |
+|Heng Liang      | Achar locais que possa vender seus produtos | Me sustentar |
 
 ## Requisitos
 
@@ -49,7 +55,7 @@ Como Mary Ann, preciso encontrar pontos turísticos para agregar em minha experi
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Questões de regularizaçâo do imigrante no pais | ALTA |  |
+|RF-001|  | ALTA |  |
 |RF-002| Questões de acomodaçâo/hospedagem   | MÉDIA | |
 |RF-003| informações culturais  | BAIXA | |
 |RF-004| informação sobre empregos   | MÉDIA | |
