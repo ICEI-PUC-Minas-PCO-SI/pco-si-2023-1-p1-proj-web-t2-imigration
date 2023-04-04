@@ -55,10 +55,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001|  | ALTA |  |
-|RF-002| Questões de acomodaçâo/hospedagem   | MÉDIA | |
-|RF-003| informações culturais  | BAIXA | |
-|RF-004| informação sobre empregos   | MÉDIA | |
+|RF-001| Buscar informações sobre legalizaçãoo de documentos | ALTA | Davi Costa |
+|RF-002| Registrar informações sobre moradias e hospedagens | MÉDIA | |
+|RF-003| Cadastrar vagas de emprego  | MÉDIA | |
+|RF-004| Informar a respeito de pontos turísticos | BAIXA | Gabriel Luiz |
+|RF-005| Disponibilizar informações sobre comércios locais | MÉDIA | |
+|RF-006| Visualização de mapa onde o usuário se encontra | ALTA | |
+|RF-007| Informar a respeito de auxílio a língua portuguesa | MÉDIA | Gabriel Luiz |
+|RF-008| Cadastrar objetivo do estrangeiro no país | ALTA | |
 
 
 ### Requisitos não Funcionais
@@ -68,10 +72,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| Deve estar disponivel 24 horas por dia |  BAIXA | 
-|RNF-004| O sistema deve ter as opções tradução para as principais linguagens |  BAIXA | 
-
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+|RNF-004| O sistema deve ter as opções tradução para as principais linguagens | ALTA | 
 
 
 ## Restrições
