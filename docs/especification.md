@@ -18,6 +18,12 @@ Backend: Javascript, JSON CRUDServer.
 
 03 - Muhammad Habib, 32 anos, sirio. Recém chegado ao Brasil em busca de refúgio. A procura de moradia e condições básicas para sobrevivência. Ao fugir da guerra, está a procura de estabilidade e uma condição de vida digna. Em busca de moradia e disposto a prestar serviços bracais como autonomo.
 
+04 - Antonio Javier, espanhol de 28 anos, vem ao Brasil a turismo. Publicitário em busca de atrações turísticas e contato com a natureza. Afim de conhecer a cultura e a gastronomia local.
+
+05 - Maria Antonella, aposentada de 68 anos, é uma italiana que adora praias de climas tropicais e está sempre a procura de uma bela vista. Visita o páis periodicamente. Sempre que está no país procura locais com facilidades de acesso as áreas litorâneas e com ótimos pontos gastronômicos.
+
+06 - Heng Liang, chiês de 38 anos, vindo ao Brasil atrás de estabilidade financeira, trabalha com artefatos importados. Atrás de residências de baixo custo e perto da região central da cidade, para que tenha facilidade de transporte. Dificuldade de interpretação da língua portuguesa.
+
 ## Histórias de Usuários
 
 
