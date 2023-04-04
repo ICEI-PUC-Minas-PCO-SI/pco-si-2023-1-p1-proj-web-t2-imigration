@@ -56,8 +56,8 @@ imigrantes, turistas, refugiados ou intercambistas,
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
 |RF-001| Buscar informações sobre legalização de documentos | ALTA | Davi Costa |
-|RF-002| Buscar informações sobre moradias e hospedagens | MÉDIA | | Davi Costa
-|RF-003| Cadastrar vagas de emprego  | MÉDIA | |
+|RF-002| Buscar informações sobre moradias e hospedagens | MÉDIA | | Davi Costa |
+|RF-003| informar sobre vagas de emprego  | MÉDIA | |
 |RF-004| Informar a respeito de pontos turísticos | BAIXA | Gabriel Luiz |
 |RF-005| Disponibilizar informações sobre comércios locais | MÉDIA | |
 |RF-006| Visualização de mapa onde o usuário se encontra | ALTA | |
