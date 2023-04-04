@@ -61,7 +61,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-005| Disponibilizar informações sobre comércios locais | MÉDIA | |
 |RF-006| Visualização de mapa onde o usuário se encontra | ALTA | |
 |RF-007| Informar a respeito de auxílio a língua portuguesa | MÉDIA | Gabriel Luiz |
-|RF-008| Cadastrar objetivo do estrangeiro no país | ALTA | |Arthur Ramires ||
+|RF-008| Cadastrar objetivo do estrangeiro no país | ALTA | |Arthur Ramires |
 
 
 ### Requisitos não Funcionais
