@@ -26,6 +26,13 @@ Backend: Javascript, JSON CRUDServer.
 
 ## Histórias de Usuários
 
+Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Raul Gonzalez  | Consultar vagas de emprego          | Conseguir me estabilizar               |
+|Raul Gonzalez       | Procurar moradia                 | Ter uma residência fixa |
+|Raul Gonzalez       | Ver os processos de legalização de documentos | Conseguir residir legalmente no Brasil |
 
 Como Raul Gonzalez, quero encontrar lugares e serviços que me ajudem a legalizar os meus documentos ao chegar ao Brasil para realizar minhas tarefas do dia a dia legalmente.
 
