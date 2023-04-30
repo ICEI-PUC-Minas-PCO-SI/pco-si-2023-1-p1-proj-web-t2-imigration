@@ -10,12 +10,28 @@ Temos 6 telas, sendo elas a inicial onde o Usuario vai cadastrar o interesse del
 ![Exemplo de UserFlow](img/workflow.png)
 
 ## Wireframes
+inicial onde o Usuario vai cadastrar o interesse:
 
 ![Exemplo de Wireframe](img/inicial.png) 
+
+tela de home:
+
 ![Exemplo de Wireframe](img/home.png)
+
+Tela de curiosidades:
+
 ![Exemplo de Wireframe](img/tela1.png)
+
+Tela de cultura:
+
 ![Exemplo de Wireframe](img/tela2.png)
+
+Tela de arte:
+
 ![Exemplo de Wireframe](img/tela3.png)
+
+Tela de culinária:
+
 ![Exemplo de Wireframe](img/tela4.png)
 
  
