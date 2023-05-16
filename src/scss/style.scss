@@ -104,6 +104,12 @@ h1, h2, h3, h4, h5,
   &.active{
   	margin-left: -300px;
   }
+  #sidebar2 {
+	min-width: 300px;
+	max-width: 300px;
+	background: #1d1919;
+	color: #ffe505;
+	transition: all 0.3s;
   .logo{
   	display: block;
   	width: 120px;
