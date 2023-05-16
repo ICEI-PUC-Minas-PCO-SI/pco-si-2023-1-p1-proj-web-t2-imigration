@@ -8387,3 +8387,7 @@ a[data-toggle="collapse"] {
 .form-control {
   border: 1px solid #f8c146;
 }
+.img-index{
+width: 180px;
+flex-wrap: wrap;
+}
