@@ -8296,9 +8296,11 @@ h1, h2, h3, h4, h5,
     }
 
 #sidebar {
-  min-width: 300px;
-  max-width: 300px;
+  min-width: 250px;
+  max-width: 250px;
+  height: 100%;
   background: #ffe505;
+  position: fixed;
   color: #000;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -8387,3 +8389,53 @@ a[data-toggle="collapse"] {
 .form-control {
   border: 1px solid #f8c146;
 }
+.img-index{
+width: 180px;
+flex-wrap: wrap;
+}
+
+#wrapper {
+  padding-left: 0;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#sidebar-wrapper {
+  z-index: 1000;
+  position: fixed;
+  right: 250px;
+  width: 0;
+  height: 100%;
+  margin-right: -250px;
+  overflow-y: auto;
+  background: #ffe505;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#wrapper {
+  padding-right: 250px;
+}
+
+#sidebar-wrapper {
+  width: 250px;
+}
+#sidebar-wrapper ul.components {
+  padding: 0; }
+#sidebar-wrapper ul li {
+  font-size: 16px; }
+  #sidebar-wrapper ul li > ul {
+    margin-left: 10px; }
+    #sidebar-wrapper ul li > ul li {
+      font-size: 14px; }
+  #sidebar-wrapper ul li a {
+    padding: 10px 0;
+    display: block;
+    color: #000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+    #sidebar-wrapper ul li a:hover {
+      color: #022902; }
