@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <title>IMIGRATION</title>
   <meta charset="utf-8">
@@ -9,11 +10,15 @@
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
   <div class="wrapper d-flex align-items-stretch">
+
+    <!--Left Bar-->
     <nav id="sidebar">
       <div class="col-lg-3 col-sm-4 col-4">
         <a href="index.html" class="float-start">
@@ -21,15 +26,16 @@
         </a>
       </div>
       <div class="p-4 pt-5">
-        <div class="input-group mb-3">
-          <input type="text" class="form-control input-text" placeholder="Pesquisar" aria-label="Recipient's username" aria-describedby="basic-addon2">
+        <div class="input-group mb-6">
+          <input type="text" class="form-control input-text" placeholder="Pesquisar" aria-label="Recipient's username"
+            aria-describedby="basic-addon2">
           <div class="input-group-append">
             <button class="btn btn-outline-warning btn-lg" type="button"><i class="fa fa-search"></i></button>
           </div>
         </div>
         <ul class="list-unstyled components mb-5">
           <li>
-            <a href="#">Home</a>
+            <a href="index.html">Home</a>
           </li>
           <li>
             <a href="docs.html">Documentos</a>
@@ -48,67 +54,26 @@
               </li>
             </ul>
           </li>
-          <li>
-            <a href="#">Portfolio</a>
-          </li>
-          <li>
-            <a href="contato.html">Contato</a>
-          </li>
         </ul>
 
         <div class="footer">
           <p>
-            Copyright &copy;<script>
-              document.write(new Date().getFullYear());
-            </script> Todos os direitos reservados | <i class="icon-heart" aria-hidden="true"></i></a>
+            Copyright &copy;
+            <script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | <i
+              class="icon-heart" aria-hidden="true"></i></a>
           </p>
         </div>
       </div>
     </nav>
 
-    <!-- Page Content -->
-    <div id="content" class="p-4 p-md-5">
+    <!--Right Bar-->
+    <div class= "navbarSupportedContent"id="wrapper">
+      <div id="sidebar-wrapper">
 
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-
-          <button type="button" id="sidebarCollapse" class="btn btn-primary">
-            <i class="fa fa-bars"></i>
-            <span class="sr-only">Toggle Menu</span>
-            </button>
-            <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fa fa-bars"></i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="nav navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="docs.html">Documentos</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="Empregos.html">Mapas</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="contato.html">Contato</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </nav>
-      
-        <h2 class="mb-4">Titulo da seção</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      </div>
-      
-      <nav id="sidebar2">
-        <div class="col-lg-3 col-sm-4 col-4">
-          <div class="input-group mb-3">
-            <p>Localização</p>
-          </div>
+        <div class="input-group mb-3">
+          <p>Localização</p>
         </div>
+
         <div class="p-4 pt-5">
           <h5 class="mb-4">Recomendados</h5>
           <ul class="list-unstyled components mb-5">
@@ -122,23 +87,45 @@
               <a href="culinaria.html">Gastronomia</a>
             </li>
           </ul>
+
           <div class="col-12">
             <h6 class="text-uppercase text-dark fw-bold mb-2">Newsletter</h6>
             <p class="text-muted">Fique por dentro das nossas novidades</p>
             <div class="input-group mb-3">
-              <input type="email" class="form-control" placeholder="Email" aria-label="Email" aria-describedby="button-addon2" />
-              <button class="btn btn-light border shadow-0" type="button" id="button-addon2" data-mdb-ripple-color="lightgray">
+              <input type="email" class="form-control " placeholder="Email" aria-label="Email"
+                aria-describedby="button-addon2" />
+              <button class="btn btn-light border shadow-0" type="button" id="button-addon2"
+                data-mdb-ripple-color="lightgray">
                 Enviar
               </button>
-       </nav>
-      
- </div>
-</div>
-</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<script src="js/jquery.min.js"></script>
-<script src="js/popper.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/main.js"></script>
+    <!-- Page Content  -->
+    <div id="content" class="p-4 p-md-5">
+      <div class="col-lg-8 col-sm-4 col-4">
+        <h2 class="mb-4">Titulo da seção</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+          nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+          id est laborum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+          nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+          id est laborum.</p>
+      </div>
 
-      
+    </div>
+  </div>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>

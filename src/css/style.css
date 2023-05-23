@@ -4,7 +4,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-:root {
+ :root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -48,7 +48,6 @@ html {
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -58,7 +57,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff; }
-
+  content
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -8245,60 +8244,12 @@ h1, h2, h3, h4, h5,
     /* outros estilos */
   }
 
-  #sidebarRight {
-    min-width: 200px;
-    max-width: 200px;
-    background: #ffe505;
-    color: #000;
-    -webkit-transition: all 0.3s;
-    -o-transition: all 0.3s;
-    transition: all 0.3s;
-    }
-    #sidebarRight ul.components {
-    padding: 0;
-    }
-    #sidebarRight {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 50%;
-  }
-    #sidebarRight ul li {
-    font-size: 16px;
-    }
-    #sidebarRight ul li > ul {
-    margin-left: 10px;
-    }
-    #sidebarRight ul li > ul li {
-    font-size: 14px;
-    }
-    #sidebarRight ul li a {
-    padding: 10px 0;
-    display: block;
-    color: #000;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    }
-    #sidebarRight ul li a:hover {
-    color: #022902;
-    }
-    #sidebarRight ul li.active > a {
-    background: transparent;
-    color: #f8b739;
-    }
-    @media (max-width: 991.98px) {
-    #sidebarRight {
-    margin-right: -300px;
-    }
-    #sidebarRight.active {
-    margin-right: 0;
-    }
-    }
-
 #sidebar {
-  min-width: 300px;
-  max-width: 300px;
+  min-width: 250px;
+  max-width: 250px;
+  height: 100%;
   background: #ffe505;
+  position: fixed;
   color: #000;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -8354,12 +8305,22 @@ a[data-toggle="collapse"] {
     display: none; } }
 
 #content {
-  width: 100%;
-  padding: 0;
+  width: 70%;
+  padding: 50;
   min-height: 100vh;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s; }
+
+  .fixed-sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%; /* Define a altura para ocupar toda a altura da janela */
+    width: 250px; /* Defina a largura desejada para a sidebar */
+  }
+  
+  
 
 .btn.btn-primary {
   background: #f8b739;
@@ -8391,3 +8352,69 @@ a[data-toggle="collapse"] {
 width: 180px;
 flex-wrap: wrap;
 }
+
+#wrapper {
+  padding-left: 0;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#sidebar-wrapper {
+  z-index: 1000;
+  position: fixed;
+  right: 250px;
+  width: 0;
+  height: 100%;
+  margin-right: -250px;
+  overflow-y: auto;
+  background: #ffe505;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.map-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* Proporção 16:9 */
+}
+
+.map-responsive {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.map-responsive iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#wrapper {
+  padding-right: 250px;
+}
+
+#sidebar-wrapper {
+  width: 250px;
+}
+#sidebar-wrapper ul.components {
+  padding: 0; }
+#sidebar-wrapper ul li {
+  font-size: 16px; }
+  #sidebar-wrapper ul li > ul {
+    margin-left: 10px; }
+    #sidebar-wrapper ul li > ul li {
+      font-size: 14px; }
+  #sidebar-wrapper ul li a {
+    padding: 10px 0;
+    display: block;
+    color: #000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+    #sidebar-wrapper ul li a:hover {
+      color: #022902; }
