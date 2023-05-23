@@ -8376,26 +8376,6 @@ flex-wrap: wrap;
   transition: all 0.5s ease;
 }
 
-.map-container {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; /* Proporção 16:9 */
-}
-
-.map-responsive {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-}
-
-.map-responsive iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
 #wrapper {
   padding-right: 250px;
 }
