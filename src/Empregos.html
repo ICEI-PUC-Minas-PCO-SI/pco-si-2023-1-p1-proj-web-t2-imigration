@@ -11,11 +11,19 @@
   <link rel="manifest" href="/site.webmanifest">
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 
+  <title>Geolocation</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+  <script type="module" src="./index.js"></script>
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
+  
+
   <div class="wrapper d-flex align-items-stretch">
 
     <!--Left Bar-->
@@ -108,12 +116,16 @@
     <div id="content" class="p-4 p-md-5">
         <h2 class="mb-4">Locais para busca de emprego na região
         </h2>
-        <div id ="map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59992.12130018419!2d-44.0343827639483!3d-19.987200556745908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa697e2157452dd%3A0x9115fb6da097700f!2sSINE%20da%20ALMG!5e0!3m2!1spt-BR!2sbr!4v1684197249001!5m2!1spt-BR!2sbr" width="700" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
+        <div id ="map"></div>
 
     </div>
   </div>
+ 
+  <script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDovUZS3cMejLdUq1BA7zjjIvwrzVKWjRk&callback=initMap&v=weekly"
+  defer
+></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=SUA_CHAVE_DE_API&libraries=places&callback=initMap" async defer></script>
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.js"></script>
   <script src="js/bootstrap.min.js"></script>
